@@ -1,4 +1,4 @@
-# leyou-manage-web
+# emporium-manage-web
 
 > A Vue.js project
 
